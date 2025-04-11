@@ -138,7 +138,6 @@ See [`LICENSE`](LICENSE) and [`NOTICE.txt`](NOTICE.txt) for full details.
 - 👥 **Client Wise** and **Power Wise** module Binning*
 - 📝 Bin wise **Report Generation**
 - 🧪 Simulator-independent data capture using **Physical Buttons**
-```
 
 ---
 
