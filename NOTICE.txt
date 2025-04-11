@@ -1,0 +1,11 @@
+Auto Sorter Controller
+Copyright 2025 Mukesh Kumar Naik, Icon Solar En Power Technology Pvt. Ltd.
+
+For questions, permissions, or support:
+Auther: Mukesh Kumar Naik
+Email: MKNaik521@gmail.com
+GitHub: https://github.com/MK-NAIK
+Website: https://www.iconsolar-en.com
+
+This product includes software developed at
+Icon Solar-En Power Technology Pvt. Ltd.
