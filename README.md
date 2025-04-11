@@ -119,7 +119,7 @@ You can generate an `.exe` file using `pyinstaller`:
 
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --icon=assets/icon.ico src/relay_control.py
+pyinstaller --windowed --icon=assets/icon.ico src/relay_control.py
 ```
 
 Then bundle it using Inno Setup, NSIS, or any installer builder for Windows.
