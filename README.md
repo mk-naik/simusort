@@ -156,7 +156,7 @@ R&D Engineer | Icon Solar En Power Tech. Pvt. Ltd.
 Want to improve SimuSort?  
 PRs and suggestions are welcome! Open issues, fork the repo, or reach out.
 
+---
 
 * Power Wise Binning: Different from Pmax, based on Model (520W, 590W, 450W)
-  Client Wise Binning: same electrical parameters but for different clients
----
+  Client-Wise Binning: same electrical parameters but for different clients
